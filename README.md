@@ -1,5 +1,5 @@
 ## print("hello world")  |  hi, i'm sierra!
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssierra2004@hotmail.com) 
+reach me at: [oliv7437@mylaurier.ca](mailto:oliv7437@mylaurier.ca), <a href="linkedin.com/in/sierra-oliver" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 💻 3rd Year Computer Science Student at Wilfrid Laurier University with Double Minor in Psychology and Statistics </br>
 🕹 🧠 I enjoy creating workable video games as well as creating software to tackle real every-day problems </br>
