@@ -1,7 +1,7 @@
 ## print("hello world")  |  hi, i'm sierra!
 reach me at: <a href="mailto:oliv7437@mylaurier.ca"><img alt="Email" src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://linkedin.com/in/sierra-oliver" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-💻 3rd Year Computer Science Student at Wilfrid Laurier University with Double Minor in Psychology and Statistics </br>
+💻 4th Year Computer Science Student at Wilfrid Laurier University with Double Minor in Psychology and Statistics </br>
 🕹 🧠 I enjoy creating workable video games as well as creating software to tackle real every-day problems </br>
 📚 Currently working on more data analysis focused projects to expand by knowledge and understanding of data visualization, machine learning, and overall data analysis</br>
 
