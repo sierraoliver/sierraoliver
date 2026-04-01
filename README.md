@@ -5,7 +5,7 @@
 📚 Currently working on data analysis projects to expand my skills in data visualization, machine learning, and overall analytics
 
 ## Contact Me
-📧 <oliv7437@mylaurier.ca> <ssierra2004@hotmail.com> 
+📧 <oliv7437@mylaurier.ca> <ssierra2004@hotmail.com>   
 💼 [LinkedIn](https://linkedin.com/in/sierra-oliver)  
 🐙 [GitHub](https://github.com/sierraoliver)
 
