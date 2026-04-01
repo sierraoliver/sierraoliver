@@ -5,7 +5,7 @@
 📚 Currently working on data analysis projects to expand my skills in data visualization, machine learning, and overall analytics
 
 ## Contact Me
-📧 <oliv7437@mylaurier.ca>  
+📧 <oliv7437@mylaurier.ca> <ssierra2004@hotmail.com> 
 💼 [LinkedIn](https://linkedin.com/in/sierra-oliver)  
 🐙 [GitHub](https://github.com/sierraoliver)
 
@@ -47,5 +47,3 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-![Sierra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SierraOliver&layout=compact&theme=radical)
