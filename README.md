@@ -48,4 +48,4 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sierraoliver&layout=compact&theme=radical)
+![Sierra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SierraOliver&layout=compact&theme=radical)
