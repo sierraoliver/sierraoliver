@@ -1,45 +1,70 @@
-## print("hello world")  |  hi, i'm sierra!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=68b9eb&center=true&vCenter=true&width=900&lines=print(%22hello+world%22)+%7C+hi%2C+i'm+sierra!;computer+science+student" />
+</p>
 
-💻 4th Year Computer Science Student at Wilfrid Laurier University with Double Minor in Psychology and Statistics  
-🕹️🧠 I enjoy creating video games and software that solves real-world problems  
-📚 Currently working on more data analysis projects to expand my skills in data visualization, machine learning, and overall analytics
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1&pause=1000&color=b30f1c&center=true&vCenter=true&width=900&lines=[+SYSTEM+ONLINE+%7C+READY+FOR+DEPLOYMENT+]" />
+</p>
 
-## Contact Me
-📧 <oliv7437@mylaurier.ca> <ssierra2004@hotmail.com>   
-💼 [LinkedIn](https://linkedin.com/in/sierra-oliver)  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=68b9eb&height=3" />
 
-<img width="1000" height="2" alt="image" src="https://github.com/user-attachments/assets/efe1ff55-46c8-4ad8-aaf9-8a693562c630" />
+## 👤 Profile
 
-## Tech Stack
+💻 4th Year Computer Science Student at Wilfrid Laurier University  
+🎓 Double Minor in Psychology and Statistics  
+🧠 Interested in how people think, how systems work, and how data can connect the two  
+🛠️ I enjoy building software projects that combine logic, creativity, and real-world impact  
 
-#### Programming Languages & Data
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=810712&height=3" />
 
-#### Front-End / Web
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 🔍 Interests
 
-#### Data Science & ML
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%23150458.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+🕹️ Game systems and interactive design  
+📊 Data visualization, analytics, and machine learning  
+💡 Building tools that solve practical problems  
+🧩 Exploring how psychology and computation overlap  
 
-#### Tools & Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=68b9eb&height=3" />
 
-#### Design & Visualization
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+## 📫 Contact
+
+📧 oliv7437@mylaurier.ca  
+📧 ssierra2004@hotmail.com  
+💼 [LinkedIn](https://linkedin.com/in/sierra-oliver)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=810712&height=3" />
+
+## ⚡ Tech Stack
+
+### Programming Languages & Data
+![Python](https://img.shields.io/badge/Python-68b9eb?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-68b9eb?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-68b9eb?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-68b9eb?style=for-the-badge&logo=sqlite&logoColor=white)
+![R](https://img.shields.io/badge/R-68b9eb?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-68b9eb?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-68b9eb?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-68b9eb?style=for-the-badge&logo=javascript&logoColor=white)
+
+---
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-810712?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-810712?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-810712?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-b30f1c?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-b30f1c?style=for-the-badge&logo=pytorch&logoColor=white)
+
+---
+
+### Tools & Version Control
+![Git](https://img.shields.io/badge/Git-68b9eb?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-68b9eb?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-68b9eb?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-68b9eb?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=810712&height=3" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2500&pause=500&color=68b9eb&center=true&vCenter=true&width=1000&lines=%3E+learning...;%3E+building...;%3E+experimenting...;%3E+improving..." />
+</p>
